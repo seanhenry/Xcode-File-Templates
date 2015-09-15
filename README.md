@@ -1,3 +1,14 @@
+# Installation
+
+## Manual
+
+Copy the Swift folder this directory: `~/Library/Developer/Xcode/Templates/File Templates/`
+
+## Git
+
+`$ cd ~/Library/Developer/Xcode/Templates/File\ Templates/`
+`$ git clone https://github.com/seanhenry/Xcode-File-Templates.git`
+
 # Swift Templates
 
 Contains a Swift template for classes, structs, enums, extensions and protocols.
@@ -25,4 +36,3 @@ Asks for the class you wish to mock.
 Builds a subclass for you to stub and a mock class inheriting from the stub.
 
 ![Swift Mock Template](https://www.dropbox.com/s/p9mpchxhl53fw21/MockClass.png?raw=1)
-
