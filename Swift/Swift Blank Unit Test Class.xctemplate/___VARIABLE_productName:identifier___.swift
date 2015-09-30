@@ -10,5 +10,4 @@ import XCTest
 class ___VARIABLE_productName:identifier___: XCTestCase {
     
     
-
 }

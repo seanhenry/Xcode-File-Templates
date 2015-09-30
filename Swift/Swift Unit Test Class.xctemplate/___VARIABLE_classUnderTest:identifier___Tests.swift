@@ -21,5 +21,4 @@ class ___VARIABLE_classUnderTest:identifier___Tests: XCTestCase {
     func test_<#Method Under Test#>() {
         
     }
-
 }
