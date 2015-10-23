@@ -21,7 +21,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-import XCTest
+import Foundation
 @testable import ___VARIABLE_moduleName:identifier___
 
 class Stub___VARIABLE_classToMock:identifier___: ___VARIABLE_classToMock:identifier___ {
