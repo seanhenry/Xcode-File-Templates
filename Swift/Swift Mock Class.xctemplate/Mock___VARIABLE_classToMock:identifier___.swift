@@ -4,7 +4,7 @@
 //___COPYRIGHT___
 //
 
-import XCTest
+import Foundation
 @testable import ___VARIABLE_moduleName:identifier___
 
 class Mock___VARIABLE_classToMock:identifier___: ___VARIABLE_classToMock:identifier___ {
