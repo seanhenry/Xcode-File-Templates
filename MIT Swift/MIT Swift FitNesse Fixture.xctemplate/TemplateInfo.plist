@@ -12,6 +12,8 @@
 	<string>1</string>
 	<key>DefaultCompletionName</key>
 	<string>MyFixture</string>
+	<key>SupportsSwiftPackage</key>
+	<true/>
 	<key>Options</key>
 	<array>
 		<dict>
