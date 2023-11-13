@@ -15,6 +15,8 @@
 	<key>DefaultCompletionName</key>
 	<string>Test</string>
 	<key>Options</key>
+	<key>SupportsSwiftPackage</key>
+	<true/>
 	<array>
 		<dict>
 			<key>Description</key>
